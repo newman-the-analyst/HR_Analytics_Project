@@ -1,6 +1,6 @@
 # HR Analytics Project
 
-## 📚 Table of Content
+## Table of Content
 
 - [Project Overview](#project-overview)  
 - [Data Sources](#data-sources)  
@@ -15,13 +15,13 @@
 
 ---
 
-## 🧾 Project Overview
+### 🧾 Project Overview
 
 This project involves the analysis of HR data to provide insights into employee demographics, satisfaction, recruitment channels, performance metrics, and workforce trends. Using Power BI, I created an interactive dashboard to support HR teams in making strategic, data-driven decisions regarding workforce planning and employee retention.
 
 ---
 
-## 🗂️ Data Sources
+### Data Sources
 
 - **Primary Source**: `HRData_Dummy.xlsx` — A synthetic dataset generated to replicate real-world HR records.
 - **Data Fields**:
@@ -31,7 +31,7 @@ This project involves the analysis of HR data to provide insights into employee 
 
   ---
 
-  ## 🛠️ Tools and Technologies Used
+  ### Tools and Technologies Used
 
 - **Power BI** — For data visualization and dashboard creation  
 - **Microsoft Excel** — For initial data formatting and preprocessing  
@@ -40,7 +40,7 @@ This project involves the analysis of HR data to provide insights into employee 
 
 ---
 
-## 🧹 Data Cleaning and Preparation
+### Data Cleaning and Preparation
 
 - Removed duplicate records and standardized column headers
 - Converted `HireDate` to datetime format
@@ -52,7 +52,7 @@ This project involves the analysis of HR data to provide insights into employee 
 
 ---
 
-## 📊 Exploratory Data Analysis
+### 📊 Exploratory Data Analysis
 
 Initial EDA revealed:
 - Majority of employees are **female (≈57%)**
@@ -61,7 +61,7 @@ Initial EDA revealed:
 - Recruitment primarily via **Indeed** and **Google Search**
 - Employee satisfaction skewed toward **High and Very High**
 
-## 📈 Data Analysis
+### 📈 Data Analysis
 
 Key calculated metrics and insights:
 - **Headcount distribution** by gender, status, department
@@ -72,7 +72,7 @@ Key calculated metrics and insights:
 
 ---
 
-## ✅ Results / Findings
+### ✅ Results / Findings
 
 - **44%** of employees are married, suggesting family-oriented policies could improve retention.
 - **Production department** has the highest number of terminations.
@@ -82,7 +82,7 @@ Key calculated metrics and insights:
 
 ---
 
-## 💡 Recommendations
+### 💡 Recommendations
 
 1. **Invest more in effective recruitment channels** like Indeed and Google Search.
 2. **Launch engagement programs** for Production department employees.
@@ -92,7 +92,7 @@ Key calculated metrics and insights:
 
 ---
 
-## ⚠️ Limitations
+### Limitations
 
 - The dataset is synthetic; actual business insights would depend on real data.
 - No post-termination feedback data was included to support retention strategy.
@@ -101,7 +101,7 @@ Key calculated metrics and insights:
 
 ---
 
-## 🔍 References
+### References
 
 - Dataset inspired by publicly available HR analytics schemas  
 - Power BI documentation: [https://docs.microsoft.com/en-us/power-bi/](https://docs.microsoft.com/en-us/power-bi/)  
