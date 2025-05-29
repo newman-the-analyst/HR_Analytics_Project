@@ -1,17 +1,17 @@
-# 📊 HR Analytics Dashboard — Power BI
+# HR Analytics Project
 
-## 📚 Table of Content
+## Table of Content
 
 - [Project Overview](#project-overview)  
 - [Data Sources](#data-sources)  
-- [Tools and Technologies Used](#tools-and-technologies-used)  
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)  
+- [Tools and Technologies Used](#tools-and-technologies-used) 
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)  
 - [Data Analysis](#data-analysis)  
 - [Results / Findings](#results--findings)  
 - [Recommendations](#recommendations)  
 - [Limitations](#limitations)  
-- [References](#references)  
+- [References](#references) 
 
 ---
 
@@ -29,14 +29,14 @@ This project involves the analysis of HR data to provide insights into employee 
   - Recruitment Source, Satisfaction, Performance Score
   - Salary, Status (Active/Terminated), Hire Date
 
----
+  ---
 
-## 🛠️ Tools and Technologies Used
+  ## 🛠️ Tools and Technologies Used
 
 - **Power BI** — For data visualization and dashboard creation  
 - **Microsoft Excel** — For initial data formatting and preprocessing  
 - **DAX (Data Analysis Expressions)** — For creating calculated measures and KPIs  
-- *(Optional)* Python (Pandas) — For synthetic dataset generation  
+- *(Optional)* Python (Pandas) — For synthetic dataset generation
 
 ---
 
@@ -60,8 +60,6 @@ Initial EDA revealed:
 - Most hires occurred between **2010 and 2015**
 - Recruitment primarily via **Indeed** and **Google Search**
 - Employee satisfaction skewed toward **High and Very High**
-
----
 
 ## 📈 Data Analysis
 
@@ -109,3 +107,6 @@ Key calculated metrics and insights:
 - Power BI documentation: [https://docs.microsoft.com/en-us/power-bi/](https://docs.microsoft.com/en-us/power-bi/)  
 - DAX Guide: [https://dax.guide](https://dax.guide)  
 - SHRM HR Analytics Best Practices: [https://www.shrm.org/](https://www.shrm.org/)
+
+
+
