@@ -19,6 +19,9 @@
 
 This project involves the analysis of HR data to provide insights into employee demographics, satisfaction, recruitment channels, performance metrics, and workforce trends. Using Power BI, I created an interactive dashboard to support HR teams in making strategic, data-driven decisions regarding workforce planning and employee retention.
 
+
+![HR Dashboard](https://github.com/user-attachments/assets/0f1bae90-d3fa-47ed-9626-c23cfe34a550)
+
 ---
 
 ## Data Sources
@@ -35,8 +38,7 @@ This project involves the analysis of HR data to provide insights into employee 
 
 - **Power BI** — For data visualization and dashboard creation  
 - **Microsoft Excel** — For initial data formatting and preprocessing  
-- **DAX (Data Analysis Expressions)** — For creating calculated measures and KPIs  
-- *(Optional)* Python (Pandas) — For synthetic dataset generation
+- **DAX (Data Analysis Expressions)** — For creating calculated measures and KPIs
 
 ---
 
@@ -96,7 +98,6 @@ Key calculated metrics and insights:
 
 ## Limitations
 
-- The dataset is synthetic; actual business insights would depend on real data.
 - No post-termination feedback data was included to support retention strategy.
 - Absence of fields like age, education level, or job title limits deeper analysis.
 - No time-series data for promotions, appraisals, or internal transfers.
@@ -108,7 +109,7 @@ Key calculated metrics and insights:
 - Dataset inspired by publicly available HR analytics schemas  
 - Power BI documentation: [https://docs.microsoft.com/en-us/power-bi/](https://docs.microsoft.com/en-us/power-bi/)  
 - DAX Guide: [https://dax.guide](https://dax.guide)  
-- SHRM HR Analytics Best Practices: [https://www.shrm.org/](https://www.shrm.org/)
+
 
 
 
