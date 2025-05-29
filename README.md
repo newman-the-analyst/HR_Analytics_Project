@@ -15,7 +15,7 @@
 
 ---
 
-## 🧾Project Overview
+## Project Overview
 
 This project involves the analysis of HR data to provide insights into employee demographics, satisfaction, recruitment channels, performance metrics, and workforce trends. Using Power BI, I created an interactive dashboard to support HR teams in making strategic, data-driven decisions regarding workforce planning and employee retention.
 
